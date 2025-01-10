@@ -12,3 +12,4 @@
 - [hardened lieutenants(중간 수준의 적)]()
 - [hardened mooks (낮은 수준의 적)]()
 - [싱글샷팩 사전제작NPC]()
+- [당신의 새로운 베스트프렌드]()
